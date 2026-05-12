@@ -9,3 +9,5 @@
 [Spiral text on Babylon.js (Version 3 - Spheres on endless spiral procedural) | Babylon.js Playground](https://playground.babylonjs.com/#RA8MV0)
 
 [Spiral text on Babylon.js (Version 4 - Final version) | Babylon.js Playground](https://playground.babylonjs.com/#UNS1EE)
+
+[Spiral text on Babylon.js (Version 5 - Text and Image on endless spiral) | Babylon.js Playground](https://playground.babylonjs.com/#23P0TV)
