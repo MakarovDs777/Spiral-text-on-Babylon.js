@@ -7,3 +7,5 @@
 [Spiral text on Babylon.js (Version 2 - Endless spiral procedural) | Babylon.js Playground](https://playground.babylonjs.com/#EZSO26#1)
 
 [Spiral text on Babylon.js (Version 3 - Spheres on endless spiral procedural) | Babylon.js Playground](https://playground.babylonjs.com/#RA8MV0)
+
+[Spiral text on Babylon.js (Version 4 - Final version) | Babylon.js Playground](https://playground.babylonjs.com/#UNS1EE)
