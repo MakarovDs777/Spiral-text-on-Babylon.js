@@ -12,4 +12,4 @@
 
 [Spiral text on Babylon.js (Version 5 - Text and Image on endless spiral) | Babylon.js Playground](https://playground.babylonjs.com/#23P0TV#1)
 
-[Spiral text on Babylon.js (Version 6 - Random symbols on spiral endless map) | Babylon.js Playground](https://playground.babylonjs.com/#LNL666)
+[Spiral text on Babylon.js (Version 6 - Random symbols on spiral endless map) | Babylon.js Playground](https://playground.babylonjs.com/#LNL666#1)
