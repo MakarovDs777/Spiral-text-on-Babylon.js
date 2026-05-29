@@ -18,4 +18,4 @@
 
 [Spiral text on Babylon.js (Version 8 - Text and Image on endless spiral) | Babylon.js Playground](https://playground.babylonjs.com/#S8FLB6)
 
-[Spiral text on Babylon.js (Version 9 - Text and Image in the dialog box on endless spiral) | Babylon.js Playground](https://playground.babylonjs.com/#H9TPC8)
+[Spiral text on Babylon.js (Version 9 - Text and Image in the dialog box on endless spiral) | Babylon.js Playground](https://playground.babylonjs.com/#H9TPC8#1)
